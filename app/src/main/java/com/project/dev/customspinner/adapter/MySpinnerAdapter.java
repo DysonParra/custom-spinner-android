@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {MySpinnerAdapter} se encarga de realizar tareas específicas.
+ * @fileoverview    {MySpinnerAdapter}
  *
  * @version         2.0
  *

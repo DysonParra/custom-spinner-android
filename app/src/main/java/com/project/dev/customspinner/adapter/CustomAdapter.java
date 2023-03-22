@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {CustomAdapter} se encarga de realizar tareas específicas.
+ * @fileoverview    {CustomAdapter}
  *
  * @version         2.0
  *
