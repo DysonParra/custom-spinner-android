@@ -23,7 +23,7 @@ import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
 /**
- * TODO: Definición de {@code DisabledAdapter}.
+ * TODO: Description of {@code DisabledAdapter}.
  *
  * @author Dyson Parra
  * @since 11
@@ -33,7 +33,7 @@ public class DisabledAdapter extends ArrayAdapter<CharSequence> {
     private boolean enabledItems[];
 
     /**
-     * TODO: Definición de {@code DisabledAdapter}.
+     * TODO: Description of {@code DisabledAdapter}.
      *
      * @param context
      * @param strings
@@ -48,7 +48,7 @@ public class DisabledAdapter extends ArrayAdapter<CharSequence> {
     }
 
     /**
-     * TODO: Definición de {@code createFromResource}.
+     * TODO: Description of {@code createFromResource}.
      *
      * @param context
      * @param textViewResId
@@ -62,7 +62,7 @@ public class DisabledAdapter extends ArrayAdapter<CharSequence> {
     }
 
     /**
-     * TODO: Definición de {@code areAllItemsEnabled}.
+     * TODO: Description of {@code areAllItemsEnabled}.
      *
      * @return
      */
@@ -72,7 +72,7 @@ public class DisabledAdapter extends ArrayAdapter<CharSequence> {
     }
 
     /**
-     * TODO: Definición de {@code isEnabled}.
+     * TODO: Description of {@code isEnabled}.
      *
      * @param position
      * @return
@@ -83,7 +83,7 @@ public class DisabledAdapter extends ArrayAdapter<CharSequence> {
     }
 
     /**
-     * TODO: Definición de {@code getDropDownView}.
+     * TODO: Description of {@code getDropDownView}.
      *
      * @param position
      * @param parent
@@ -104,7 +104,7 @@ public class DisabledAdapter extends ArrayAdapter<CharSequence> {
     }
 
     /**
-     * TODO: Definición de {@code enableItem}.
+     * TODO: Description of {@code enableItem}.
      *
      * @param position
      */
@@ -114,7 +114,7 @@ public class DisabledAdapter extends ArrayAdapter<CharSequence> {
     }
 
     /**
-     * TODO: Definición de {@code disableItem}.
+     * TODO: Description of {@code disableItem}.
      *
      * @param position
      */

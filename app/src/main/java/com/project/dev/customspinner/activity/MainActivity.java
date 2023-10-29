@@ -25,7 +25,7 @@ import com.project.dev.customspinner.adapter.CustomAdapter;
 import com.project.dev.customspinner.adapter.DisabledAdapter;
 
 /**
- * TODO: Definición de {@code MainActivity}.
+ * TODO: Description of {@code MainActivity}.
  *
  * @author Dyson Parra
  * @since 11

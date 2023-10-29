@@ -26,7 +26,7 @@ import android.widget.ImageView;
 import com.project.dev.customspinner.R;
 
 /**
- * TODO: Definición de {@code CustomAdapter}.
+ * TODO: Description of {@code CustomAdapter}.
  *
  * @author Dyson Parra
  * @since 11
@@ -37,7 +37,7 @@ public class CustomAdapter extends ArrayAdapter<String> {
     private Context mContext;
 
     /**
-     * TODO: Definición de {@code CustomAdapter}.
+     * TODO: Description of {@code CustomAdapter}.
      *
      * @param context
      * @param images
@@ -49,7 +49,7 @@ public class CustomAdapter extends ArrayAdapter<String> {
     }
 
     /**
-     * TODO: Definición de {@code getDropDownView}.
+     * TODO: Description of {@code getDropDownView}.
      *
      * @param position
      * @param parent
@@ -61,7 +61,7 @@ public class CustomAdapter extends ArrayAdapter<String> {
     }
 
     /**
-     * TODO: Definición de {@code getCount}.
+     * TODO: Description of {@code getCount}.
      *
      * @return
      */
@@ -71,7 +71,7 @@ public class CustomAdapter extends ArrayAdapter<String> {
     }
 
     /**
-     * TODO: Definición de {@code getView}.
+     * TODO: Description of {@code getView}.
      *
      * @param position
      * @param parent
@@ -97,7 +97,7 @@ public class CustomAdapter extends ArrayAdapter<String> {
     }
 
     /**
-     * TODO: Definición de {@code ViewHolder}.
+     * TODO: Description of {@code ViewHolder}.
      *
      */
     private static class ViewHolder {
