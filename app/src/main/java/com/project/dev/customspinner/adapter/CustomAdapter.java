@@ -29,7 +29,7 @@ import com.project.dev.customspinner.R;
  * TODO: Definición de {@code CustomAdapter}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class CustomAdapter extends ArrayAdapter<String> {
 

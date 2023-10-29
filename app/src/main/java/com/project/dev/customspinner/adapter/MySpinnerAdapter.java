@@ -18,7 +18,7 @@ package com.project.dev.customspinner.adapter;
  * TODO: Definición de {@code MySpinnerAdapter}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class MySpinnerAdapter {
 }
